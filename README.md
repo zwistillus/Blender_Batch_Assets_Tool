@@ -20,7 +20,10 @@ File Name: BatchFileAssetLibrary.py
 2. Open Blender → Scripting workspace
 3. Paste or open the script into a new text block
 4. Set ROOT folder path below
-5. Run Script
+
+<img width="906" height="211" alt="image" src="https://github.com/user-attachments/assets/550abfc7-c1fc-424a-b26b-5b62d371860b" />
+
+6. Run Script
 
 # IMPORTANT:
 BACK UP your .blend files first (this script will SAVE changes).
