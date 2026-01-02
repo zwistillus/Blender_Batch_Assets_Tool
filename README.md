@@ -23,12 +23,6 @@ Batch script for converting large folders of .blend files into Blender Asset Bro
 BACK UP your .blend files first (this script will SAVE changes).
 Prints progress/errors to the system console / terminal.
 
-Documentation:
-
-Batch script for converting large folders of `.blend` files into Blender Asset Browser–ready assets (Blender 4.2+).
-
-This tool is designed for artists and technical artists who manage **hundreds of assets** and want to avoid manually opening and marking each file one by one.
-
 ---
 
 ## Features
