@@ -44,3 +44,11 @@ This script batch-processes them so they appear correctly in Blender’s **Asset
 1. Clone this repository or download the script file:
    ```bash
    git clone https://github.com/zwistillus/Blender_Batch_Assets_Tool.git
+2. Open Blender → Scripting workspace
+3. Paste or open the script into a new text block
+4. Set ROOT folder path below
+5. Run Script
+
+# IMPORTANT:
+BACK UP your .blend files first (this script will SAVE changes).
+Prints progress/errors to the system console / terminal.
