@@ -14,6 +14,9 @@ Batch script for converting large folders of .blend files into Blender Asset Bro
 1. Clone this repository or download the script file:
    ```bash
    git clone https://github.com/zwistillus/Blender_Batch_Assets_Tool.git
+
+File Name: BatchFileAssetLibrary.py
+
 2. Open Blender → Scripting workspace
 3. Paste or open the script into a new text block
 4. Set ROOT folder path below
