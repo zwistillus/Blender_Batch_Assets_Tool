@@ -23,7 +23,8 @@ File Name: BatchFileAssetLibrary.py
 
 <img width="906" height="211" alt="image" src="https://github.com/user-attachments/assets/550abfc7-c1fc-424a-b26b-5b62d371860b" />
 
-6. Run Script
+5. Adjust parameter settings to your liking
+7. Run Script
 
 # IMPORTANT:
 BACK UP your .blend files first (this script will SAVE changes).
@@ -41,7 +42,13 @@ Prints progress/errors to the system console / terminal.
 - Compatible with **Blender 4.2+**
 
 ---
+## Bugs
 
+- May ocassionally crash or partially convert files in the folder if the size is too large based on specs
+- Assigns them to undefined instead of labeled tabs (currently work in progress)
+- Unable to mass delete once converted (deletion script currently work in progress)
+  
+---
 ## Use Case
 
 If you have:
