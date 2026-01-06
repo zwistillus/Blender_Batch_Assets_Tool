@@ -34,8 +34,8 @@ Prints progress/errors to the system console / terminal.
 
 ## Features
 
-- Opens every `.blend` file in a folder (recursively)
-- Marks mesh objects as Asset Browser assets
+- Opens every `.blend` file in a folder
+- Marks mesh objects (or chosen object) as Asset Browser assets
 - Saves files automatically
 - Skips backup files (`.blend1`, `.blend2`)
 - Optional filtering to avoid helper / collision objects
