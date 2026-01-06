@@ -45,7 +45,7 @@ Prints progress/errors to the system console / terminal.
 ## Bugs
 
 - May ocassionally crash or partially convert files in the folder if the size is too large based on specs
-- Assigns them to undefined instead of labeled tabs (currently work in progress)
+- Assigns assets to the undefined tab instead of labeled tabs (currently work in progress)
 - Unable to mass delete once converted (deletion script currently work in progress)
   
 ---
